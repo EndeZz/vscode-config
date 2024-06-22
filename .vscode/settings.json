@@ -1,0 +1,161 @@
+{
+  "window.title": "${dirty}${rootName} ¯\\_(ツ)_/¯ /${activeEditorShort} (${activeRepositoryBranchName})",
+  "window.customTitleBarVisibility": "auto",
+  "window.customMenuBarAltFocus": false,
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "editor.renderWhitespace": "all",
+  "editor.folding": true,
+  "editor.detectIndentation": true,
+  "editor.suggestSelection": "first",
+  "editor.scrollBeyondLastLine": true,
+  "editor.cursorBlinking": "expand",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.comments.ignoreEmptyLines": true,
+  "editor.comments.insertSpace": true,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "editor.accessibilitySupport": "off",
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.inlayHints.enabled": "on",
+  "editor.fontLigatures": false,
+  "editor.matchBrackets": "near",
+  "editor.linkedEditing": true,
+  "scm.showChangesSummary": true,
+  "extensions.ignoreRecommendations": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.mergeEditor": true,
+  "git.suggestSmartCommit": false,
+  "git.branchProtectionPrompt": "alwaysPrompt",
+  "git.openRepositoryInParentFolders": "never",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.diffAlgorithm": "advanced",
+  "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.startupEditor": "none",
+  "workbench.colorTheme": "One Dark Pro",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.layoutControl.enabled": false,
+  "workbench.localHistory.enabled": false,
+  "workbench.editor.enablePreview": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.tree.enableStickyScroll": true,
+  "cSpell.language": "en,ru",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "terminal.integrated.mouseWheelZoom": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.smoothScrolling": true,
+  "terminal.integrated.minimumContrastRatio": 1,
+  "terminal.integrated.gpuAcceleration": "on",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "json.validate.enable": true,
+  "javascript.preferences.renameMatchingJsxTags": true,
+  "javascript.updateImportsOnFileMove.enabled": "prompt",
+  "javascript.inlayHints.variableTypes.enabled": false,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": false,
+  "typescript.preferences.renameMatchingJsxTags": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.inlayHints.variableTypes.enabled": false,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
+  "typescript.preferences.preferTypeOnlyAutoImports": true,
+  "cSpell.userWords": [
+    "autofetch",
+    "Axios",
+    "bravedevelopers",
+    "btns",
+    "cleanenv",
+    "clsx",
+    "codegen",
+    "Consolas",
+    "craco",
+    "doublequotes",
+    "emojies",
+    "figital",
+    "finded",
+    "firestore",
+    "graphiql",
+    "lightbox",
+    "matchround",
+    "Matchrounds",
+    "Morty",
+    "nodemoon",
+    "occupated",
+    "petproject",
+    "pinia",
+    "postcss",
+    "reduxjs",
+    "Roboto",
+    "stylelint",
+    "tabnine",
+    "typecheck",
+    "Uncategorized"
+  ],
+  "eslint.enable": true,
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "eslint.validate": [
+    "vue",
+    "html",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "codeium.enableCodeLens": false,
+  "codeium.enableConfig": {
+    "*": true,
+    "markdown": true,
+    "mdx": true,
+    "plaintext": true,
+    "properties": true,
+    "prisma": true,
+    "xml": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "prettify-ts.enableHover": false,
+  "prettify-ts.viewNestedTypes": false,
+  "errorLens.enabledDiagnosticLevels": [
+    "error",
+    "warning"
+  ],
+  "cssVariables.lookupFiles": [
+    "**/*.css",
+    "**/*.scss",
+    "**/*.sass",
+    "**/*.less",
+    "node_modules/@mantine/core/styles.css"
+  ]
+}

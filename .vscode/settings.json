@@ -3,6 +3,7 @@
   "workbench.colorCustomizations": {
     "activityBar.activeBorder": "#8c6cf4",
     "activityBarBadge.background": "#8c6cf4",
+    "tab.activeBorder": "#8c6cf4",
   },
   "window.customTitleBarVisibility": "auto",
   "window.customMenuBarAltFocus": false,

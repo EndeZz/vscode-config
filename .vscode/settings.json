@@ -1,5 +1,9 @@
 {
   "window.title": "${dirty}${rootName} ¯\\_(ツ)_/¯ /${activeEditorShort} (${activeRepositoryBranchName})",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBorder": "#8c6cf4",
+    "activityBarBadge.background": "#8c6cf4",
+  },
   "window.customTitleBarVisibility": "auto",
   "window.customMenuBarAltFocus": false,
   "editor.tabSize": 2,

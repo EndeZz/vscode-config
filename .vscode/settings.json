@@ -58,7 +58,6 @@
   "terminal.integrated.smoothScrolling": true,
   "terminal.integrated.minimumContrastRatio": 1,
   "terminal.integrated.gpuAcceleration": "on",
-  "terminal.integrated.defaultProfile.windows": "Git Bash",
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
@@ -72,38 +71,6 @@
   "typescript.inlayHints.variableTypes.enabled": false,
   "typescript.inlayHints.functionLikeReturnTypes.enabled": false,
   "typescript.preferences.preferTypeOnlyAutoImports": true,
-  "cSpell.userWords": [
-    "autofetch",
-    "Axios",
-    "bravedevelopers",
-    "btns",
-    "cleanenv",
-    "clsx",
-    "codegen",
-    "Consolas",
-    "craco",
-    "doublequotes",
-    "emojies",
-    "figital",
-    "finded",
-    "firestore",
-    "graphiql",
-    "lightbox",
-    "matchround",
-    "Matchrounds",
-    "Morty",
-    "nodemoon",
-    "occupated",
-    "petproject",
-    "pinia",
-    "postcss",
-    "reduxjs",
-    "Roboto",
-    "stylelint",
-    "tabnine",
-    "typecheck",
-    "Uncategorized"
-  ],
   "eslint.enable": true,
   "eslint.format.enable": true,
   "eslint.workingDirectories": [
@@ -147,11 +114,9 @@
   "[html]": {
     "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
-  "[jsonc]": {
+  "[json]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  "prettify-ts.enableHover": false,
-  "prettify-ts.viewNestedTypes": false,
   "errorLens.enabledDiagnosticLevels": [
     "error",
     "warning"
